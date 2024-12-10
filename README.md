@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/axmedmaxamuud/WFP_PostDeyr_IPC">
-    <img src="https://cdn.wfp.org/guides/ui/v1.0.0/assets/logos/standard/en/wfp-logo-standard-blue-en.png" alt="Logo">
+    <img src="https://resources.vam.wfp.org/_assets/img/logos/wfp-logo-extended-white-en.svg" alt="Logo">
   </a>
 
 <h3 align="center">WFP Post-Dery IPC Assessment 2024</h3>
